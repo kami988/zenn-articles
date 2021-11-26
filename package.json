@@ -1,0 +1,11 @@
+{
+  "name": "zenn-articles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kami988/zenn-articles.git",
+  "author": "kami988 <baske.yoshi007@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.99"
+  }
+}
